@@ -44,7 +44,7 @@ void testList (int numberOfItems)
 
 int main()
 {
-  for (int test = 26; test >= 0; --test)
+  for (int test = 2; test >= 0; --test)
     {
       testList(test);
     }
